@@ -7,6 +7,9 @@
 
 ## An Android library. you can focus on your code, and let the library do the validation for you. 
 
+### Itroduction
+The library validates details such as username, password, email address, phone number, date of birth and more.
+
 ### When downloading the library, you can access 4 form validators:
 - Basic Validator
 - Coloration Validator
