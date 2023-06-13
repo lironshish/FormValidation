@@ -7,20 +7,20 @@
 
 ## An Android library. you can focus on your code, and let the library do the validation for you. 
 
-### When downloading the library, you can access FormValidation. You can validate:
-- Password
-- Email Address
-- Telephone Number
-- Zip Code
-- Year
+### When downloading the library, you can access 4 form validators:
+- Basic Validator
+- Coloration Validator
+- Underlabrl Validator
+- Text Input Validator
 
 ## Screenshots
 
 <div>
-  <img src="https://user-images.githubusercontent.com/62293320/235295888-9ee756ad-22c9-45c9-8516-0208d4f59ee0.png" width="200" height="300"/>
-   <img src="https://user-images.githubusercontent.com/62293320/235295895-b183126c-a334-4790-b9d4-a6e387d64cac.png"  width="200" height="300"/>
-    <img src="https://user-images.githubusercontent.com/62293320/235295900-c4272f94-6c34-4a2a-8bb0-d98a244e24e8.png"  width="200" height="300"/>
-    <img src="https://user-images.githubusercontent.com/62293320/235295909-a9392777-ad4f-4880-b0a0-9091c4a419f8.png"  width="200" height="300"/>
+  <img src="https://github.com/lironshish/FormValidation/assets/62293320/8fb191af-3067-46d7-b356-62a2fd7a4f2d.png" width="200" height="300"/>
+  <img src="https://github.com/lironshish/FormValidation/assets/62293320/0c563abf-dfb6-4c01-a2fc-f66b3ded4271.png" width="200" height="300"/>
+
+  <img src="https://github.com/lironshish/FormValidation/assets/62293320/0c563abf-dfb6-4c01-a2fc-f66b3ded4271.png" width="200" height="300"/>
+
 </div>
 
 
